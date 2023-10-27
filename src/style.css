@@ -1,0 +1,12 @@
+.tabDiv {
+    border: solid blue;
+}
+
+.noteDiv {
+    border: solid red
+}
+
+.highlighted {
+    background-color: purple;
+    color: white
+}
